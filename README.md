@@ -1,2 +1,0 @@
-# examen
-repo del examen
